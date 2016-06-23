@@ -1,0 +1,9 @@
+Package: testme
+Type: Package
+Title: It is a gives a mearsurement of your R Code
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Who to complain to <riyazpanjwani96@gmail.com>
+Description: A simple test package to analyse various aspects of R code
+License: None
+LazyData: TRUE
