@@ -7,3 +7,4 @@ Maintainer: Who to complain to <riyazpanjwani96@gmail.com>
 Description: A simple test package to analyse various aspects of R code
 License: None
 LazyData: TRUE
+Imports:git2r,microbenchmark,testthat
