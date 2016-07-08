@@ -64,12 +64,12 @@ testme<- function(test.name, code){
                     summary=sum_val)
   test.results[[test.name]] <<- time.df
 }
-  source(temp,local=T)
-----------------------------------------------------------------
+ source(temp,local=T)
+#----------------------------------------------------------------
   #library(ggplot2)
   #g<-ggplot(time.df,aes(test.name,seconds))
   #g+geom_point()
------------------------------------------------------------------
+#-----------------------------------------------------------------
   #Format the Op
   test.results.df<-do.call(rbind,test.results)
   #base name is used to get the file name tested
