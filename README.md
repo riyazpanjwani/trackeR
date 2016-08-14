@@ -10,5 +10,5 @@ The result obtained is a data-frame of commits attributes and its run-time measu
 The data frame gives a Quantitative estimation of Run time analysis. Looking at the last 2 test case of the recent and last 2nd commit it can be inferred from the graph that the Runtime is decreased by 28.3% (Second Recent: 0.0511 ns and Recent: 0.398 ns) and the overall average being 30.2% which means that the efficiency increases and hence the modified code is better (when compared in regard to run-time efficiency).
 
 ###Output
-![Final Plot](/home/riyaz/Downloads/image.png)
+![FinalPlot](pic/image.png)
 
