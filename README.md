@@ -12,3 +12,5 @@ The data frame gives a Quantitative estimation of Run time analysis. Looking at 
 ###Output
 ![FinalPlot](pic/image.png)
 
+##Report
+In order to get more insight of my work please refer to Report provided.
